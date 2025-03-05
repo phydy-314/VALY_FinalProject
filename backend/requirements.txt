@@ -1,0 +1,11 @@
+numpy==1.26.4
+mysql-connector-python
+nltk
+matplotlib
+pandas
+seaborn
+pickle-mixin
+scikit-surprise
+tabulate
+scikit-learn
+flask
